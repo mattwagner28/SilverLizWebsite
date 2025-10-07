@@ -14,7 +14,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "hhttps://www.silverlizmusic.com/",
+  "homepage": "https://mattwagner28.github.io/SilverLizWebsite",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
