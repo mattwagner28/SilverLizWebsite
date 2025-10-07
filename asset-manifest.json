@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SilverLizWebsite/static/css/main.c2089d02.css",
+    "main.js": "/SilverLizWebsite/static/js/main.25077aaa.js",
+    "static/js/453.fef98e1c.chunk.js": "/SilverLizWebsite/static/js/453.fef98e1c.chunk.js",
+    "index.html": "/SilverLizWebsite/index.html",
+    "main.c2089d02.css.map": "/SilverLizWebsite/static/css/main.c2089d02.css.map",
+    "main.25077aaa.js.map": "/SilverLizWebsite/static/js/main.25077aaa.js.map",
+    "453.fef98e1c.chunk.js.map": "/SilverLizWebsite/static/js/453.fef98e1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2089d02.css",
+    "static/js/main.25077aaa.js"
+  ]
+}
