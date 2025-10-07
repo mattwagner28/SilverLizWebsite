@@ -2,7 +2,7 @@
   "devDependencies": {
     "tailwindcss": "^4.1.13"
   },
-  "homepage": "https://mattwagner28.github.io/SilverLizWebsite",
+  "homepage": "https://www.silverlizmusic.com/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
