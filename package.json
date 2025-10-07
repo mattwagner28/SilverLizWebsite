@@ -1,5 +1,10 @@
 {
   "devDependencies": {
     "tailwindcss": "^4.1.13"
+  },
+  "homepage": "https://mattwagner28.github.io/SilverLizWebsite",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   }
 }
